@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bmcl.numbers.FirstSpecification" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-08T18:03:59" hostname="PT-8HGPSQ3" time="0.207">
+  <properties/>
+  <testcase name="one plus one should equal two" classname="com.bmcl.numbers.FirstSpecification" time="0.172"/>
+  <testcase name="two plus two should equal four" classname="com.bmcl.numbers.FirstSpecification" time="0.001"/>
+  <testcase name="Should be able to remove from list" classname="com.bmcl.numbers.FirstSpecification" time="0.03"/>
+  <testcase name="Should get an index out of bounds when removing a non-existent item" classname="com.bmcl.numbers.FirstSpecification" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
